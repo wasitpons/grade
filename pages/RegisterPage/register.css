@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.RegisterPage_form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.RegisterPage_Alert {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.confirm-form {
+  margin-top: 25px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
